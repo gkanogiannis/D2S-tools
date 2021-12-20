@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/428388465.svg)](https://zenodo.org/badge/latestdoi/428388465)
+
 # D2S-tools
  D2S-tools (PostDoc Genoscope 2013-2015)
  
