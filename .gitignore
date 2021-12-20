@@ -3,5 +3,5 @@
 /out/
 /.settings/
 /*.fasta
-.classpath
-.project
+/.classpath
+/.project
